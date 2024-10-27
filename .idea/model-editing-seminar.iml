@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/data/stats/google_gemma-2-2b" />
+      <excludeFolder url="file://$MODULE_DIR$/data/stats/meta-llama_Llama-3.2-1B" />
     </content>
     <orderEntry type="jdk" jdkName="model-editing-seminar" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
